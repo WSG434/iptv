@@ -1,0 +1,45 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="ПЕНЗА",Первый канал (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_1TV.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Россия 1 (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_ROSSIA1.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Матч! (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_MATCHTV.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",НТВ (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_NTV.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Пятый канал (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_5TV.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Россия K (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_ROSSIAK.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Россия 24 (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_ROSSIA24.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Карусель (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",ОТР (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_OTR.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",ТВЦ (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_TVC.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",РЕН ТВ (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_RENTV.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",СТС (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_STS.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Домашний (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",ТВ3 (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_TV3.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Пятница! (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Звезда (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",ТНТ (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_TNT.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Че! (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_CHE.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Ю (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_U.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Экспресс HD (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_EXPRESSHD.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Наш дом HD (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_NASHDOMHD.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",ТНВ Планета (Пенза)
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_TNVPLANETA.m3u8
